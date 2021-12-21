@@ -1,4 +1,4 @@
-package userapi
+package userApi
 
 import (
 	"GolangRestApi/entities"
